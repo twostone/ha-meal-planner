@@ -1,7 +1,7 @@
 """Constants for the Meal Planner integration."""
 
 DOMAIN = "meal_planner"
-VERSION = "0.1.0"
+VERSION = "0.1.0"  # x-release-please-version
 
 PLATFORMS = ["sensor"]
 
